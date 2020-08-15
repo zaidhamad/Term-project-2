@@ -1,5 +1,5 @@
 # Term-project-2
-All source codes are in the folder src2/.
+All source codes are in the folder Sources/.
 
 Two classes BinarySVM and MultiSVM are defined in the file svm.py.
 
